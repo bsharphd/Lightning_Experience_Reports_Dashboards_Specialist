@@ -27,3 +27,5 @@ FIX
 * Challenge 8
   *   [Instructions](https://github.com/bsharphd/Lightning_Experience_Reports_Dashboards_Specialist/wiki/10.-Business-Requirements-Part-8)
   *   [Make reports and dashboards more discoverable and usable](https://github.com/bsharphd/Lightning_Experience_Reports_Dashboards_Specialist/wiki/10.1--Make-reports-and-dashboards-more-discoverable-and-usable)
+
+**Solutions maintained in private repository**
